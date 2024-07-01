@@ -1,9 +1,4 @@
 /*
- * CSC 460 - Database Design
- * Prog4.java
- * Professor Lester McCann
- * TAs: Zehnyu Qi and Danial Bazmandeh
- * Author: Edan Uccetta, Jake Gridley
  *
  *
  * Allows for various operations on an Oracle
